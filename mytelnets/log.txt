@@ -1,0 +1,5 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 7603-F078
+
+ Directory of C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework2\Homework2\mytelnets
+

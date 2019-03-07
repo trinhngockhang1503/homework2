@@ -1,0 +1,4 @@
+﻿  ChatServer.cpp
+c:\users\khangkhang\documents\visual studio 2015\projects\homework2\homework2\chatserver\chatserver.cpp(82): warning C4715: 'ClientThread': not all control paths return a value
+  ChatServer.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework2\Homework2\Debug\ChatServer.exe
+  ChatServer.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\homework2\Homework2\Debug\ChatServer.pdb (Full PDB)
